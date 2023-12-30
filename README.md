@@ -65,7 +65,7 @@ wget -q https://raw.githubusercontent.com/gemilangvip/autoscript-trakteer/main/u
 ```
 
 ## TAMPILAN MENU SCRIPT
-<img width="100%" alt="Screenshot_20231229_194127" src="https://github.com/gemilangvip/autoscript-trakteer/assets/154574742/eb883c98-ce16-4223-978f-a3a070b0b22d">
+<img width="100%" alt="Screenshot_20231230_144710" src="https://github.com/gemilangvip/autoscript-trakteer/assets/154574742/0bd49f3f-1c8f-4eb4-bd1b-461db39d5184">
 
 ## `WAJIB IZIN IP, SILAHKAN TRAKTEER ADMIN BERAPAPUN !`
 Mekanisme Perizinan `UNLIMITED IP` Melalui Trakteer Atau Berdonasi - Admin 𝔾𝕖𝕞𝕚𝕝𝕒𝕟𝕘𝕂𝕚𝕟𝕒𝕤𝕚𝕙࿐
