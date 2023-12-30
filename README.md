@@ -26,6 +26,17 @@ Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi y
 wget -q https://raw.githubusercontent.com/gemilangvip/autoscript-trakteer/main/update.sh && chmod +x update.sh && ./update.sh
 ```
 
+## FIX BUG ATASI HAPROXY EROR
+Masukkan perintah dibawah jika terdapat eror pada satus haproxy
+```
+cat /etc/letsencrypt/live/yourdomain/fullchain.pem /etc/letsencrypt/live/yourdomain/privkey.pem > /etc/haproxy/hap.pem
+```
+Ganti `yourdomain` menjadi domain yang anda inputkan, lalu restart system haproxy
+```
+sudo systemctl restart haproxy
+```
+Kembali ke menu utama dan cek apakah haproxy sudah berjalan dengan normal
+
 ## TESTED ON OS
 - UBUNTU Version 18 Atau 20 (Recommended)
 - DEBIAN Version 09 Atau 10
@@ -76,7 +87,7 @@ Mekanisme Perizinan `UNLIMITED IP` Melalui Trakteer Atau Berdonasi - Admin 𝔾�
 - Untuk Tanggal EXP Sesuaikan Sendiri `1 Bulan Dari Tanggal Saat Berdonasi`. Setelah Berhasil, Izin IP Akan Di Inputkan Oleh - Admin 𝔾𝕖𝕞𝕚𝕝𝕒𝕟𝕘𝕂𝕚𝕟𝕒𝕤𝕚𝕙࿐<br>
 - Input IP Akan Diproses `MAX 1X24 Jam`, Instalasi Bisa Dilakukan Terlebih Dahulu!, Setelah Di Inputkan Semua Fitur Autoscript Akan Terbuka Dengan Sendirinya
 
-Jika Ingin Cepat Diproses Bisa Chat Whatsapp - Admin 𝔾𝕖𝕞𝕚𝕝𝕒𝕟𝕘𝕂𝕚𝕟𝕒𝕤𝕚𝕙࿐
+Saran : Jika Ingin Cepat Diproses Bisa Chat Whatsapp - Admin 𝔾𝕖𝕞𝕚𝕝𝕒𝕟𝕘𝕂𝕚𝕟𝕒𝕤𝕚𝕙࿐
 
 ## `! WARNING !`
 Script masih dalam tahap pengembangan, Jika menemukan bug bisa lapor ke - Admin 𝔾𝕖𝕞𝕚𝕝𝕒𝕟𝕘𝕂𝕚𝕟𝕒𝕤𝕚𝕙࿐
