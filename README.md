@@ -70,9 +70,9 @@ wget -q https://raw.githubusercontent.com/gemilangvip/autoscript-trakteer/main/u
 ## `WAJIB IZIN IP, SILAHKAN TRAKTEER ADMIN BERAPAPUN !`
 Mekanisme Perizinan `UNLIMITED IP` Melalui Trakteer Atau Berdonasi - Admin 𝔾𝕖𝕞𝕚𝕝𝕒𝕟𝕘𝕂𝕚𝕟𝕒𝕤𝕚𝕙࿐
 - Saat Trakteer/Berdonasi, Masukkan IP VPS Kalian Pada Menu Pesan Dukungan Dengan Format<br> `### [Username][spasi][Tgl EXP][Spasi][IP VPS]`<br>
-- Link Donasi <a href="https://trakteer.id/gemilangkinasih/tip">Trakteer Admin 𝔾𝕖𝕞𝕚𝕝𝕒𝕟𝕘𝕂𝕚𝕟𝕒𝕤𝕚𝕙࿐</a><br><br>
+- Link Donasi <a href="https://trakteer.id/gemilangkinasih/tip">`Trakteer Admin 𝔾𝕖𝕞𝕚𝕝𝕒𝕟𝕘𝕂𝕚𝕟𝕒𝕤𝕚𝕙࿐`</a><br><br>
 
-<img width="100%" alt="Screenshot_20231229_170541" src="https://github.com/gemilangvip/autoscript-trakteer/assets/154574742/d071b767-5fba-4d72-989b-722d78cb2052"><br>
+<img width="100%" alt="Screenshot_20231229_170541" src="https://github.com/gemilangvip/autoscript-trakteer/assets/154574742/34e67c82-7414-4e21-be13-74f226a619ce"><br>
 - Untuk Tanggal EXP Sesuaikan Sendiri `1 Bulan Dari Tanggal Saat Berdonasi`. Setelah Berhasil, Izin IP Akan Di Inputkan Oleh - Admin 𝔾𝕖𝕞𝕚𝕝𝕒𝕟𝕘𝕂𝕚𝕟𝕒𝕤𝕚𝕙࿐<br>
 - Input IP Akan Diproses `MAX 1X24 Jam`, Instalasi Bisa Dilakukan Terlebih Dahulu!, Setelah Di Inputkan Semua Fitur Autoscript Akan Terbuka Dengan Sendirinya
 
