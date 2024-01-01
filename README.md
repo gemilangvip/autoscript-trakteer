@@ -29,9 +29,9 @@ wget -q https://raw.githubusercontent.com/gemilangvip/autoscript-trakteer/main/u
 ## FIX BUG ATASI HAPROXY EROR
 Masukkan perintah dibawah jika terdapat eror pada satus haproxy
 ```
-cat /etc/letsencrypt/live/yourdomain/fullchain.pem /etc/letsencrypt/live/yourdomain/privkey.pem > /etc/haproxy/hap.pem
+cat /etc/xray/xray.key /etc/xray/xray.crt > /etc/haproxy/hap.pem
 ```
-Ganti `yourdomain` menjadi domain yang anda inputkan, lalu restart system haproxy
+Setelah sertifikat dan kunci ssl berhasil dipindahkan, restart haproxynya
 ```
 sudo systemctl restart haproxy
 ```
